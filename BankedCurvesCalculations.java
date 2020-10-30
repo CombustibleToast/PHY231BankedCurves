@@ -35,7 +35,6 @@ public class BankedCurvesCalculations{
 
                     double frictionTorqueProduced = forceOfFriction * heightOfCenterOfGravity;
                     out.printf("%s%.1f%s%n", "Torque produced due to friction: ", frictionTorqueProduced, " N*m");
-                    //double maxSafeSpeed = Math.sqrt((9.8*radiusOfCurve* wheelbaseLength * Math.sin(anglesOfBank[k] * (Math.PI/180)))/(2*heightOfCenterOfGravity));
                     double maxSafeSpeed = Math.sqrt((9.8*radiusOfCurve*((wheelbaseLength/2) + Math.sin(anglesOfBank[k] * (Math.PI/180))))/heightOfCenterOfGravity);
                     out.printf("%s%.1f%s%n", "Maximum speed before tipping: ", maxSafeSpeed, " m/s");
                     out.printf("%s%.1f%s%n", "Maximum speed before tipping: ", maxSafeSpeed * 2.237, " mph");
