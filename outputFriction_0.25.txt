@@ -1,0 +1,380 @@
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        6.7
+Vehicle speed (mph):        15.0
+Angle of bank of the curve: 0.0
+~~~
+Centripetal force required: 981.3 N
+Normal Force on Vehicle: 10711.4 N
+Force of friction produced: 2677.9 N
+Difference (Negative means friction is not enough and the car will slide out): 1696.6 N
+
+Torque produced due to friction: 1435.3 N*m
+Maximum speed before tipping: 24.4 m/s
+Maximum speed before tipping: 54.5 mph
+Difference in speeds (negative means the car has tipped): 17.7 m/s
+Difference in speeds (negative means the car has tipped): 39.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        6.7
+Vehicle speed (mph):        15.0
+Angle of bank of the curve: 5.0
+~~~
+Centripetal force required: 981.3 N
+Normal Force on Vehicle: 10670.6 N
+Force of friction produced: 2667.7 N
+Difference (Negative means friction is not enough and the car will slide out): 1686.4 N
+
+Torque produced due to friction: 1429.9 N*m
+Maximum speed before tipping: 26.0 m/s
+Maximum speed before tipping: 58.1 mph
+Difference in speeds (negative means the car has tipped): 19.3 m/s
+Difference in speeds (negative means the car has tipped): 43.1 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        6.7
+Vehicle speed (mph):        15.0
+Angle of bank of the curve: 10.0
+~~~
+Centripetal force required: 981.3 N
+Normal Force on Vehicle: 10548.7 N
+Force of friction produced: 2637.2 N
+Difference (Negative means friction is not enough and the car will slide out): 1655.9 N
+
+Torque produced due to friction: 1413.5 N*m
+Maximum speed before tipping: 27.4 m/s
+Maximum speed before tipping: 61.4 mph
+Difference in speeds (negative means the car has tipped): 20.7 m/s
+Difference in speeds (negative means the car has tipped): 46.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        6.7
+Vehicle speed (mph):        15.0
+Angle of bank of the curve: 15.0
+~~~
+Centripetal force required: 981.3 N
+Normal Force on Vehicle: 10346.4 N
+Force of friction produced: 2586.6 N
+Difference (Negative means friction is not enough and the car will slide out): 1605.3 N
+
+Torque produced due to friction: 1386.4 N*m
+Maximum speed before tipping: 28.8 m/s
+Maximum speed before tipping: 64.5 mph
+Difference in speeds (negative means the car has tipped): 22.1 m/s
+Difference in speeds (negative means the car has tipped): 49.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        6.7
+Vehicle speed (mph):        15.0
+Angle of bank of the curve: 20.0
+~~~
+Centripetal force required: 981.3 N
+Normal Force on Vehicle: 10065.4 N
+Force of friction produced: 2516.4 N
+Difference (Negative means friction is not enough and the car will slide out): 1535.1 N
+
+Torque produced due to friction: 1348.8 N*m
+Maximum speed before tipping: 30.1 m/s
+Maximum speed before tipping: 67.4 mph
+Difference in speeds (negative means the car has tipped): 23.4 m/s
+Difference in speeds (negative means the car has tipped): 52.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        13.4
+Vehicle speed (mph):        30.0
+Angle of bank of the curve: 0.0
+~~~
+Centripetal force required: 3925.2 N
+Normal Force on Vehicle: 10711.4 N
+Force of friction produced: 2677.9 N
+Difference (Negative means friction is not enough and the car will slide out): -1247.3 N
+
+Torque produced due to friction: 1435.3 N*m
+Maximum speed before tipping: 24.4 m/s
+Maximum speed before tipping: 54.5 mph
+Difference in speeds (negative means the car has tipped): 11.0 m/s
+Difference in speeds (negative means the car has tipped): 24.6 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        13.4
+Vehicle speed (mph):        30.0
+Angle of bank of the curve: 5.0
+~~~
+Centripetal force required: 3925.2 N
+Normal Force on Vehicle: 10670.6 N
+Force of friction produced: 2667.7 N
+Difference (Negative means friction is not enough and the car will slide out): -1257.5 N
+
+Torque produced due to friction: 1429.9 N*m
+Maximum speed before tipping: 26.0 m/s
+Maximum speed before tipping: 58.1 mph
+Difference in speeds (negative means the car has tipped): 12.6 m/s
+Difference in speeds (negative means the car has tipped): 28.1 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        13.4
+Vehicle speed (mph):        30.0
+Angle of bank of the curve: 10.0
+~~~
+Centripetal force required: 3925.2 N
+Normal Force on Vehicle: 10548.7 N
+Force of friction produced: 2637.2 N
+Difference (Negative means friction is not enough and the car will slide out): -1288.0 N
+
+Torque produced due to friction: 1413.5 N*m
+Maximum speed before tipping: 27.4 m/s
+Maximum speed before tipping: 61.4 mph
+Difference in speeds (negative means the car has tipped): 14.0 m/s
+Difference in speeds (negative means the car has tipped): 31.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        13.4
+Vehicle speed (mph):        30.0
+Angle of bank of the curve: 15.0
+~~~
+Centripetal force required: 3925.2 N
+Normal Force on Vehicle: 10346.4 N
+Force of friction produced: 2586.6 N
+Difference (Negative means friction is not enough and the car will slide out): -1338.6 N
+
+Torque produced due to friction: 1386.4 N*m
+Maximum speed before tipping: 28.8 m/s
+Maximum speed before tipping: 64.5 mph
+Difference in speeds (negative means the car has tipped): 15.4 m/s
+Difference in speeds (negative means the car has tipped): 34.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        13.4
+Vehicle speed (mph):        30.0
+Angle of bank of the curve: 20.0
+~~~
+Centripetal force required: 3925.2 N
+Normal Force on Vehicle: 10065.4 N
+Force of friction produced: 2516.4 N
+Difference (Negative means friction is not enough and the car will slide out): -1408.8 N
+
+Torque produced due to friction: 1348.8 N*m
+Maximum speed before tipping: 30.1 m/s
+Maximum speed before tipping: 67.4 mph
+Difference in speeds (negative means the car has tipped): 16.7 m/s
+Difference in speeds (negative means the car has tipped): 37.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        22.4
+Vehicle speed (mph):        50.1
+Angle of bank of the curve: 0.0
+~~~
+Centripetal force required: 10968.5 N
+Normal Force on Vehicle: 10711.4 N
+Force of friction produced: 2677.9 N
+Difference (Negative means friction is not enough and the car will slide out): -8290.6 N
+
+Torque produced due to friction: 1435.3 N*m
+Maximum speed before tipping: 24.4 m/s
+Maximum speed before tipping: 54.5 mph
+Difference in speeds (negative means the car has tipped): 2.0 m/s
+Difference in speeds (negative means the car has tipped): 4.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        22.4
+Vehicle speed (mph):        50.1
+Angle of bank of the curve: 5.0
+~~~
+Centripetal force required: 10968.5 N
+Normal Force on Vehicle: 10670.6 N
+Force of friction produced: 2667.7 N
+Difference (Negative means friction is not enough and the car will slide out): -8300.8 N
+
+Torque produced due to friction: 1429.9 N*m
+Maximum speed before tipping: 26.0 m/s
+Maximum speed before tipping: 58.1 mph
+Difference in speeds (negative means the car has tipped): 3.6 m/s
+Difference in speeds (negative means the car has tipped): 8.0 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        22.4
+Vehicle speed (mph):        50.1
+Angle of bank of the curve: 10.0
+~~~
+Centripetal force required: 10968.5 N
+Normal Force on Vehicle: 10548.7 N
+Force of friction produced: 2637.2 N
+Difference (Negative means friction is not enough and the car will slide out): -8331.3 N
+
+Torque produced due to friction: 1413.5 N*m
+Maximum speed before tipping: 27.4 m/s
+Maximum speed before tipping: 61.4 mph
+Difference in speeds (negative means the car has tipped): 5.0 m/s
+Difference in speeds (negative means the car has tipped): 11.3 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        22.4
+Vehicle speed (mph):        50.1
+Angle of bank of the curve: 15.0
+~~~
+Centripetal force required: 10968.5 N
+Normal Force on Vehicle: 10346.4 N
+Force of friction produced: 2586.6 N
+Difference (Negative means friction is not enough and the car will slide out): -8381.9 N
+
+Torque produced due to friction: 1386.4 N*m
+Maximum speed before tipping: 28.8 m/s
+Maximum speed before tipping: 64.5 mph
+Difference in speeds (negative means the car has tipped): 6.4 m/s
+Difference in speeds (negative means the car has tipped): 14.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        22.4
+Vehicle speed (mph):        50.1
+Angle of bank of the curve: 20.0
+~~~
+Centripetal force required: 10968.5 N
+Normal Force on Vehicle: 10065.4 N
+Force of friction produced: 2516.4 N
+Difference (Negative means friction is not enough and the car will slide out): -8452.1 N
+
+Torque produced due to friction: 1348.8 N*m
+Maximum speed before tipping: 30.1 m/s
+Maximum speed before tipping: 67.4 mph
+Difference in speeds (negative means the car has tipped): 7.7 m/s
+Difference in speeds (negative means the car has tipped): 17.3 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        31.3
+Vehicle speed (mph):        70.0
+Angle of bank of the curve: 0.0
+~~~
+Centripetal force required: 21416.0 N
+Normal Force on Vehicle: 10711.4 N
+Force of friction produced: 2677.9 N
+Difference (Negative means friction is not enough and the car will slide out): -18738.2 N
+
+Torque produced due to friction: 1435.3 N*m
+Maximum speed before tipping: 24.4 m/s
+Maximum speed before tipping: 54.5 mph
+Difference in speeds (negative means the car has tipped): -6.9 m/s
+Difference in speeds (negative means the car has tipped): -15.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        31.3
+Vehicle speed (mph):        70.0
+Angle of bank of the curve: 5.0
+~~~
+Centripetal force required: 21416.0 N
+Normal Force on Vehicle: 10670.6 N
+Force of friction produced: 2667.7 N
+Difference (Negative means friction is not enough and the car will slide out): -18748.4 N
+
+Torque produced due to friction: 1429.9 N*m
+Maximum speed before tipping: 26.0 m/s
+Maximum speed before tipping: 58.1 mph
+Difference in speeds (negative means the car has tipped): -5.3 m/s
+Difference in speeds (negative means the car has tipped): -11.9 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        31.3
+Vehicle speed (mph):        70.0
+Angle of bank of the curve: 10.0
+~~~
+Centripetal force required: 21416.0 N
+Normal Force on Vehicle: 10548.7 N
+Force of friction produced: 2637.2 N
+Difference (Negative means friction is not enough and the car will slide out): -18778.9 N
+
+Torque produced due to friction: 1413.5 N*m
+Maximum speed before tipping: 27.4 m/s
+Maximum speed before tipping: 61.4 mph
+Difference in speeds (negative means the car has tipped): -3.9 m/s
+Difference in speeds (negative means the car has tipped): -8.6 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        31.3
+Vehicle speed (mph):        70.0
+Angle of bank of the curve: 15.0
+~~~
+Centripetal force required: 21416.0 N
+Normal Force on Vehicle: 10346.4 N
+Force of friction produced: 2586.6 N
+Difference (Negative means friction is not enough and the car will slide out): -18829.4 N
+
+Torque produced due to friction: 1386.4 N*m
+Maximum speed before tipping: 28.8 m/s
+Maximum speed before tipping: 64.5 mph
+Difference in speeds (negative means the car has tipped): -2.5 m/s
+Difference in speeds (negative means the car has tipped): -5.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.25
+Vehicle speed (m/s):        31.3
+Vehicle speed (mph):        70.0
+Angle of bank of the curve: 20.0
+~~~
+Centripetal force required: 21416.0 N
+Normal Force on Vehicle: 10065.4 N
+Force of friction produced: 2516.4 N
+Difference (Negative means friction is not enough and the car will slide out): -18899.7 N
+
+Torque produced due to friction: 1348.8 N*m
+Maximum speed before tipping: 30.1 m/s
+Maximum speed before tipping: 67.4 mph
+Difference in speeds (negative means the car has tipped): -1.2 m/s
+Difference in speeds (negative means the car has tipped): -2.7 mph
+
+
+
