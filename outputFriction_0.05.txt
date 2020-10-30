@@ -7,7 +7,9 @@ Angle of bank of the curve: 0.0
 Centripetal force required: 981.3 N
 Normal Force on Vehicle: 10711.4 N
 Force of friction produced: 535.6 N
-Difference (Negative means friction is not enough and the car will slide out): -445.7 N
+Force of gravity against slipping out: 0.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -445.7 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): 535.6 N
 
 Torque produced due to friction: 287.1 N*m
 Maximum speed before tipping: 24.4 m/s
@@ -26,7 +28,9 @@ Angle of bank of the curve: 5.0
 Centripetal force required: 981.3 N
 Normal Force on Vehicle: 10670.6 N
 Force of friction produced: 533.5 N
-Difference (Negative means friction is not enough and the car will slide out): -447.8 N
+Force of gravity against slipping out: 933.6 N
+Difference (Negative means not enough centripetal force and the car will slide out): 485.8 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -400.0 N
 
 Torque produced due to friction: 286.0 N*m
 Maximum speed before tipping: 26.0 m/s
@@ -45,7 +49,9 @@ Angle of bank of the curve: 10.0
 Centripetal force required: 981.3 N
 Normal Force on Vehicle: 10548.7 N
 Force of friction produced: 527.4 N
-Difference (Negative means friction is not enough and the car will slide out): -453.9 N
+Force of gravity against slipping out: 1860.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): 1406.2 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -1332.6 N
 
 Torque produced due to friction: 282.7 N*m
 Maximum speed before tipping: 27.4 m/s
@@ -64,7 +70,9 @@ Angle of bank of the curve: 15.0
 Centripetal force required: 981.3 N
 Normal Force on Vehicle: 10346.4 N
 Force of friction produced: 517.3 N
-Difference (Negative means friction is not enough and the car will slide out): -464.0 N
+Force of gravity against slipping out: 2772.3 N
+Difference (Negative means not enough centripetal force and the car will slide out): 2308.3 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -2255.0 N
 
 Torque produced due to friction: 277.3 N*m
 Maximum speed before tipping: 28.8 m/s
@@ -83,13 +91,225 @@ Angle of bank of the curve: 20.0
 Centripetal force required: 981.3 N
 Normal Force on Vehicle: 10065.4 N
 Force of friction produced: 503.3 N
-Difference (Negative means friction is not enough and the car will slide out): -478.0 N
+Force of gravity against slipping out: 3663.5 N
+Difference (Negative means not enough centripetal force and the car will slide out): 3185.5 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -3160.2 N
 
 Torque produced due to friction: 269.8 N*m
 Maximum speed before tipping: 30.1 m/s
 Maximum speed before tipping: 67.4 mph
 Difference in speeds (negative means the car has tipped): 23.4 m/s
 Difference in speeds (negative means the car has tipped): 52.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        8.94
+Vehicle speed (mph):        20.0
+Angle of bank of the curve: 0.0
+~~~
+Centripetal force required: 1747.1 N
+Normal Force on Vehicle: 10711.4 N
+Force of friction produced: 535.6 N
+Force of gravity against slipping out: 0.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -1211.6 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): 535.6 N
+
+Torque produced due to friction: 287.1 N*m
+Maximum speed before tipping: 24.4 m/s
+Maximum speed before tipping: 54.5 mph
+Difference in speeds (negative means the car has tipped): 15.4 m/s
+Difference in speeds (negative means the car has tipped): 34.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        8.94
+Vehicle speed (mph):        20.0
+Angle of bank of the curve: 5.0
+~~~
+Centripetal force required: 1747.1 N
+Normal Force on Vehicle: 10670.6 N
+Force of friction produced: 533.5 N
+Force of gravity against slipping out: 933.6 N
+Difference (Negative means not enough centripetal force and the car will slide out): -280.0 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -400.0 N
+
+Torque produced due to friction: 286.0 N*m
+Maximum speed before tipping: 26.0 m/s
+Maximum speed before tipping: 58.1 mph
+Difference in speeds (negative means the car has tipped): 17.0 m/s
+Difference in speeds (negative means the car has tipped): 38.1 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        8.94
+Vehicle speed (mph):        20.0
+Angle of bank of the curve: 10.0
+~~~
+Centripetal force required: 1747.1 N
+Normal Force on Vehicle: 10548.7 N
+Force of friction produced: 527.4 N
+Force of gravity against slipping out: 1860.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): 640.3 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -1332.6 N
+
+Torque produced due to friction: 282.7 N*m
+Maximum speed before tipping: 27.4 m/s
+Maximum speed before tipping: 61.4 mph
+Difference in speeds (negative means the car has tipped): 18.5 m/s
+Difference in speeds (negative means the car has tipped): 41.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        8.94
+Vehicle speed (mph):        20.0
+Angle of bank of the curve: 15.0
+~~~
+Centripetal force required: 1747.1 N
+Normal Force on Vehicle: 10346.4 N
+Force of friction produced: 517.3 N
+Force of gravity against slipping out: 2772.3 N
+Difference (Negative means not enough centripetal force and the car will slide out): 1542.5 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -2255.0 N
+
+Torque produced due to friction: 277.3 N*m
+Maximum speed before tipping: 28.8 m/s
+Maximum speed before tipping: 64.5 mph
+Difference in speeds (negative means the car has tipped): 19.9 m/s
+Difference in speeds (negative means the car has tipped): 44.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        8.94
+Vehicle speed (mph):        20.0
+Angle of bank of the curve: 20.0
+~~~
+Centripetal force required: 1747.1 N
+Normal Force on Vehicle: 10065.4 N
+Force of friction produced: 503.3 N
+Force of gravity against slipping out: 3663.5 N
+Difference (Negative means not enough centripetal force and the car will slide out): 2419.7 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -3160.2 N
+
+Torque produced due to friction: 269.8 N*m
+Maximum speed before tipping: 30.1 m/s
+Maximum speed before tipping: 67.4 mph
+Difference in speeds (negative means the car has tipped): 21.2 m/s
+Difference in speeds (negative means the car has tipped): 47.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        11.176
+Vehicle speed (mph):        25.0
+Angle of bank of the curve: 0.0
+~~~
+Centripetal force required: 2730.4 N
+Normal Force on Vehicle: 10711.4 N
+Force of friction produced: 535.6 N
+Force of gravity against slipping out: 0.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -2194.8 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): 535.6 N
+
+Torque produced due to friction: 287.1 N*m
+Maximum speed before tipping: 24.4 m/s
+Maximum speed before tipping: 54.5 mph
+Difference in speeds (negative means the car has tipped): 13.2 m/s
+Difference in speeds (negative means the car has tipped): 29.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        11.176
+Vehicle speed (mph):        25.0
+Angle of bank of the curve: 5.0
+~~~
+Centripetal force required: 2730.4 N
+Normal Force on Vehicle: 10670.6 N
+Force of friction produced: 533.5 N
+Force of gravity against slipping out: 933.6 N
+Difference (Negative means not enough centripetal force and the car will slide out): -1263.3 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -400.0 N
+
+Torque produced due to friction: 286.0 N*m
+Maximum speed before tipping: 26.0 m/s
+Maximum speed before tipping: 58.1 mph
+Difference in speeds (negative means the car has tipped): 14.8 m/s
+Difference in speeds (negative means the car has tipped): 33.1 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        11.176
+Vehicle speed (mph):        25.0
+Angle of bank of the curve: 10.0
+~~~
+Centripetal force required: 2730.4 N
+Normal Force on Vehicle: 10548.7 N
+Force of friction produced: 527.4 N
+Force of gravity against slipping out: 1860.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -342.9 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -1332.6 N
+
+Torque produced due to friction: 282.7 N*m
+Maximum speed before tipping: 27.4 m/s
+Maximum speed before tipping: 61.4 mph
+Difference in speeds (negative means the car has tipped): 16.3 m/s
+Difference in speeds (negative means the car has tipped): 36.4 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        11.176
+Vehicle speed (mph):        25.0
+Angle of bank of the curve: 15.0
+~~~
+Centripetal force required: 2730.4 N
+Normal Force on Vehicle: 10346.4 N
+Force of friction produced: 517.3 N
+Force of gravity against slipping out: 2772.3 N
+Difference (Negative means not enough centripetal force and the car will slide out): 559.3 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -2255.0 N
+
+Torque produced due to friction: 277.3 N*m
+Maximum speed before tipping: 28.8 m/s
+Maximum speed before tipping: 64.5 mph
+Difference in speeds (negative means the car has tipped): 17.6 m/s
+Difference in speeds (negative means the car has tipped): 39.5 mph
+
+
+
+Calculating using the variables:
+Coefficient of friction:    0.05
+Vehicle speed (m/s):        11.176
+Vehicle speed (mph):        25.0
+Angle of bank of the curve: 20.0
+~~~
+Centripetal force required: 2730.4 N
+Normal Force on Vehicle: 10065.4 N
+Force of friction produced: 503.3 N
+Force of gravity against slipping out: 3663.5 N
+Difference (Negative means not enough centripetal force and the car will slide out): 1436.4 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -3160.2 N
+
+Torque produced due to friction: 269.8 N*m
+Maximum speed before tipping: 30.1 m/s
+Maximum speed before tipping: 67.4 mph
+Difference in speeds (negative means the car has tipped): 18.9 m/s
+Difference in speeds (negative means the car has tipped): 42.4 mph
 
 
 
@@ -102,7 +322,9 @@ Angle of bank of the curve: 0.0
 Centripetal force required: 3925.2 N
 Normal Force on Vehicle: 10711.4 N
 Force of friction produced: 535.6 N
-Difference (Negative means friction is not enough and the car will slide out): -3389.6 N
+Force of gravity against slipping out: 0.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -3389.6 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): 535.6 N
 
 Torque produced due to friction: 287.1 N*m
 Maximum speed before tipping: 24.4 m/s
@@ -121,7 +343,9 @@ Angle of bank of the curve: 5.0
 Centripetal force required: 3925.2 N
 Normal Force on Vehicle: 10670.6 N
 Force of friction produced: 533.5 N
-Difference (Negative means friction is not enough and the car will slide out): -3391.6 N
+Force of gravity against slipping out: 933.6 N
+Difference (Negative means not enough centripetal force and the car will slide out): -2458.1 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -400.0 N
 
 Torque produced due to friction: 286.0 N*m
 Maximum speed before tipping: 26.0 m/s
@@ -140,7 +364,9 @@ Angle of bank of the curve: 10.0
 Centripetal force required: 3925.2 N
 Normal Force on Vehicle: 10548.7 N
 Force of friction produced: 527.4 N
-Difference (Negative means friction is not enough and the car will slide out): -3397.7 N
+Force of gravity against slipping out: 1860.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -1537.7 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -1332.6 N
 
 Torque produced due to friction: 282.7 N*m
 Maximum speed before tipping: 27.4 m/s
@@ -159,7 +385,9 @@ Angle of bank of the curve: 15.0
 Centripetal force required: 3925.2 N
 Normal Force on Vehicle: 10346.4 N
 Force of friction produced: 517.3 N
-Difference (Negative means friction is not enough and the car will slide out): -3407.9 N
+Force of gravity against slipping out: 2772.3 N
+Difference (Negative means not enough centripetal force and the car will slide out): -635.5 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -2255.0 N
 
 Torque produced due to friction: 277.3 N*m
 Maximum speed before tipping: 28.8 m/s
@@ -178,7 +406,9 @@ Angle of bank of the curve: 20.0
 Centripetal force required: 3925.2 N
 Normal Force on Vehicle: 10065.4 N
 Force of friction produced: 503.3 N
-Difference (Negative means friction is not enough and the car will slide out): -3421.9 N
+Force of gravity against slipping out: 3663.5 N
+Difference (Negative means not enough centripetal force and the car will slide out): 241.6 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -3160.2 N
 
 Torque produced due to friction: 269.8 N*m
 Maximum speed before tipping: 30.1 m/s
@@ -197,7 +427,9 @@ Angle of bank of the curve: 0.0
 Centripetal force required: 10968.5 N
 Normal Force on Vehicle: 10711.4 N
 Force of friction produced: 535.6 N
-Difference (Negative means friction is not enough and the car will slide out): -10432.9 N
+Force of gravity against slipping out: 0.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -10432.9 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): 535.6 N
 
 Torque produced due to friction: 287.1 N*m
 Maximum speed before tipping: 24.4 m/s
@@ -216,7 +448,9 @@ Angle of bank of the curve: 5.0
 Centripetal force required: 10968.5 N
 Normal Force on Vehicle: 10670.6 N
 Force of friction produced: 533.5 N
-Difference (Negative means friction is not enough and the car will slide out): -10434.9 N
+Force of gravity against slipping out: 933.6 N
+Difference (Negative means not enough centripetal force and the car will slide out): -9501.4 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -400.0 N
 
 Torque produced due to friction: 286.0 N*m
 Maximum speed before tipping: 26.0 m/s
@@ -235,7 +469,9 @@ Angle of bank of the curve: 10.0
 Centripetal force required: 10968.5 N
 Normal Force on Vehicle: 10548.7 N
 Force of friction produced: 527.4 N
-Difference (Negative means friction is not enough and the car will slide out): -10441.0 N
+Force of gravity against slipping out: 1860.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -8581.0 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -1332.6 N
 
 Torque produced due to friction: 282.7 N*m
 Maximum speed before tipping: 27.4 m/s
@@ -254,7 +490,9 @@ Angle of bank of the curve: 15.0
 Centripetal force required: 10968.5 N
 Normal Force on Vehicle: 10346.4 N
 Force of friction produced: 517.3 N
-Difference (Negative means friction is not enough and the car will slide out): -10451.2 N
+Force of gravity against slipping out: 2772.3 N
+Difference (Negative means not enough centripetal force and the car will slide out): -7678.8 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -2255.0 N
 
 Torque produced due to friction: 277.3 N*m
 Maximum speed before tipping: 28.8 m/s
@@ -273,7 +511,9 @@ Angle of bank of the curve: 20.0
 Centripetal force required: 10968.5 N
 Normal Force on Vehicle: 10065.4 N
 Force of friction produced: 503.3 N
-Difference (Negative means friction is not enough and the car will slide out): -10465.2 N
+Force of gravity against slipping out: 3663.5 N
+Difference (Negative means not enough centripetal force and the car will slide out): -6801.7 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -3160.2 N
 
 Torque produced due to friction: 269.8 N*m
 Maximum speed before tipping: 30.1 m/s
@@ -292,7 +532,9 @@ Angle of bank of the curve: 0.0
 Centripetal force required: 21416.0 N
 Normal Force on Vehicle: 10711.4 N
 Force of friction produced: 535.6 N
-Difference (Negative means friction is not enough and the car will slide out): -20880.5 N
+Force of gravity against slipping out: 0.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -20880.5 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): 535.6 N
 
 Torque produced due to friction: 287.1 N*m
 Maximum speed before tipping: 24.4 m/s
@@ -311,7 +553,9 @@ Angle of bank of the curve: 5.0
 Centripetal force required: 21416.0 N
 Normal Force on Vehicle: 10670.6 N
 Force of friction produced: 533.5 N
-Difference (Negative means friction is not enough and the car will slide out): -20882.5 N
+Force of gravity against slipping out: 933.6 N
+Difference (Negative means not enough centripetal force and the car will slide out): -19948.9 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -400.0 N
 
 Torque produced due to friction: 286.0 N*m
 Maximum speed before tipping: 26.0 m/s
@@ -330,7 +574,9 @@ Angle of bank of the curve: 10.0
 Centripetal force required: 21416.0 N
 Normal Force on Vehicle: 10548.7 N
 Force of friction produced: 527.4 N
-Difference (Negative means friction is not enough and the car will slide out): -20888.6 N
+Force of gravity against slipping out: 1860.0 N
+Difference (Negative means not enough centripetal force and the car will slide out): -19028.6 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -1332.6 N
 
 Torque produced due to friction: 282.7 N*m
 Maximum speed before tipping: 27.4 m/s
@@ -349,7 +595,9 @@ Angle of bank of the curve: 15.0
 Centripetal force required: 21416.0 N
 Normal Force on Vehicle: 10346.4 N
 Force of friction produced: 517.3 N
-Difference (Negative means friction is not enough and the car will slide out): -20898.7 N
+Force of gravity against slipping out: 2772.3 N
+Difference (Negative means not enough centripetal force and the car will slide out): -18126.4 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -2255.0 N
 
 Torque produced due to friction: 277.3 N*m
 Maximum speed before tipping: 28.8 m/s
@@ -368,7 +616,9 @@ Angle of bank of the curve: 20.0
 Centripetal force required: 21416.0 N
 Normal Force on Vehicle: 10065.4 N
 Force of friction produced: 503.3 N
-Difference (Negative means friction is not enough and the car will slide out): -20912.8 N
+Force of gravity against slipping out: 3663.5 N
+Difference (Negative means not enough centripetal force and the car will slide out): -17249.2 N
+Force of slipping in (Negative means too much centripetal force and car will slide in): -3160.2 N
 
 Torque produced due to friction: 269.8 N*m
 Maximum speed before tipping: 30.1 m/s

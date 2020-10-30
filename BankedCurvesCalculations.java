@@ -4,7 +4,7 @@ public class BankedCurvesCalculations{
         final double massOfVehicle = 1093;
         final double heightOfCenterOfGravity = 0.536;
         final double wheelbaseLength = 1.3;
-        final double[] linearVelocities = new double[]{6.7,13.4,22.4,31.3};
+        final double[] linearVelocities = new double[]{6.7,8.94,11.176,13.4,22.4,31.3};
         final double radiusOfCurve = 50;
         final double[] coefficientsOfFriction = new double[]{0.75,0.25,0.05}; //,0.25,0.05
         final double[] anglesOfBank = new double[]{0,5,10,15,20}; //,5,10,15,20}
@@ -28,12 +28,15 @@ public class BankedCurvesCalculations{
                     out.printf("%s%.1f%s%n", "Normal Force on Vehicle: ", normalForce, " N");
                     double forceOfFriction = (coefficientsOfFriction[i] * normalForce);
                     out.printf("%s%.1f%s%n", "Force of friction produced: ", forceOfFriction, " N");
-                    //Calculation of banked normal force stuff goes here, edit line below to reflect
-                    out.printf("%s%.1f%s%n%n", "Difference (Negative means friction is not enough and the car will slide out): ", forceOfFriction - centripetalForceRequired, " N");
+                    double forceOfGravityAgainstSlipping = massOfVehicle * 9.8 * Math.sin(anglesOfBank[k] * (Math.PI/180));
+                    out.printf("%s%.1f%s%n", "Force of gravity against slipping out: ", forceOfGravityAgainstSlipping, " N");
+                    out.printf("%s%.1f%s%n", "Difference (Negative means not enough centripetal force and the car will slide out): ", forceOfFriction + forceOfGravityAgainstSlipping - centripetalForceRequired, " N");
+                    out.printf("%s%.1f%s%n%n", "Force of slipping in (Negative means too much centripetal force and car will slide in): ", forceOfFriction - forceOfGravityAgainstSlipping, " N");
 
-                    double maxSafeSpeed = Math.sqrt((9.8*radiusOfCurve*((wheelbaseLength/2) + Math.sin(anglesOfBank[k] * (Math.PI/180))))/heightOfCenterOfGravity);
                     double frictionTorqueProduced = forceOfFriction * heightOfCenterOfGravity;
                     out.printf("%s%.1f%s%n", "Torque produced due to friction: ", frictionTorqueProduced, " N*m");
+                    //double maxSafeSpeed = Math.sqrt((9.8*radiusOfCurve* wheelbaseLength * Math.sin(anglesOfBank[k] * (Math.PI/180)))/(2*heightOfCenterOfGravity));
+                    double maxSafeSpeed = Math.sqrt((9.8*radiusOfCurve*((wheelbaseLength/2) + Math.sin(anglesOfBank[k] * (Math.PI/180))))/heightOfCenterOfGravity);
                     out.printf("%s%.1f%s%n", "Maximum speed before tipping: ", maxSafeSpeed, " m/s");
                     out.printf("%s%.1f%s%n", "Maximum speed before tipping: ", maxSafeSpeed * 2.237, " mph");
                     out.printf("%s%.1f%s%n", "Difference in speeds (negative means the car has tipped): ", maxSafeSpeed - linearVelocities[j], " m/s");
